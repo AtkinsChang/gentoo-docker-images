@@ -1,0 +1,6 @@
+dev-lang/python sqlite
+dev-libs/libpcre -readline
+sys-devel/llvm gold
+sys-devel/clang default-compiler-rt default-libcxx
+sys-devel/clang-runtime libcxx
+media-libs/mesa openmax vdpau xa xvmc vaapi vulkan
